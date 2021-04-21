@@ -1,6 +1,6 @@
 ---
 role: Quantum chemist, material scientist
-avatar_filename: "ava-small.jpg"
+avatar_filename: ava-small.jpg
 bio: My research interests include theoretical chemistry, chemical engineering
   and material science.
 interests:
@@ -10,12 +10,14 @@ interests:
 social:
   - display:
       header: false
+    link: mailto:s.e.malykhin@gmail.com
+    icon_pack: fab
+    icon: envelope
+  - display:
+      header: false
     link: https://t.me/se_malykhin
     icon_pack: fab
     icon: telegram
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/%D1%81%D0%B5%D1%80%D0%B3%D0%B5%D0%B9-%D0%BC%D0%B0%D0%BB%D1%8B%D1%85%D0%B8%D0%BD-b5345a105/
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=jNZqnpEAAAAJ
