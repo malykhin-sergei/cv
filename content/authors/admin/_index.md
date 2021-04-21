@@ -11,7 +11,7 @@ social:
   - display:
       header: false
     link: mailto:s.e.malykhin@gmail.com
-    icon_pack: fab
+    icon_pack: fas
     icon: envelope
   - display:
       header: false
