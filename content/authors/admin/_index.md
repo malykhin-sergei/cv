@@ -33,6 +33,5 @@ education:
 superuser: true
 highlight_name: false
 title: Sergei Malykhin
-email: ""
+email: s.e.malykhin@gmail.com
 ---
-
