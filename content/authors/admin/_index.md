@@ -8,9 +8,6 @@ interests:
   - Material Science
   - Chemical Technology
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
   - display:
       header: false
     link: https://t.me/se_malykhin
