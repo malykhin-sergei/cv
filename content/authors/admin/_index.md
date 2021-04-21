@@ -1,6 +1,6 @@
 ---
 role: Quantum chemist, material scientist
-avatar_filename: ava-small.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include theoretical chemistry, chemical engineering
   and material science.
 interests:
