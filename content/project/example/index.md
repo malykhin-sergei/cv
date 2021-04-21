@@ -4,7 +4,7 @@ url_pdf: ""
 summary: ""
 url_video: ""
 date: 2021-04-21T07:56:36.857Z
-external_link: '""'
+external_link: ""
 url_slides: ""
 title: AtomEnergyLevels
 subtitle: Julia module designed for DFT modeling of systems with spherically
