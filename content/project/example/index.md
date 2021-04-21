@@ -4,7 +4,7 @@ url_pdf: ""
 summary: ""
 url_video: ""
 date: 2021-04-21T07:56:36.857Z
-external_link: ""
+external_link: https://github.com/malykhin-sergei/AtomEnergyLevels.jl
 url_slides: ""
 title: AtomEnergyLevels
 subtitle: Julia module designed for DFT modeling of systems with spherically
@@ -17,8 +17,9 @@ links:
     name: Source code
     url: https://github.com/malykhin-sergei/AtomEnergyLevels.jl
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Uranium atom
   focal_point: Smart
+  filename: shell_structure.png
 url_code: ""
 ---
 Solve numerically
