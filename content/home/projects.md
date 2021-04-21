@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
+  - name: DFT
+    tag: DFT
   - name: Other
-    tag: Demo
+    tag: other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
