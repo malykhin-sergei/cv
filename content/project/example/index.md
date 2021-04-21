@@ -19,10 +19,10 @@ links:
 image:
   caption: Uranium atom
   focal_point: Smart
-  filename: shell_structure.png
+  filename: "shell_structure.png"
 url_code: ""
 ---
-Solve numerically
+## Solve numerically
 
  1. 1D [Schrödinger equation](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation) by the [spectral collocation (i.e., pseudospectral) method](https://en.wikipedia.org/wiki/Collocation_method)
  2. Schrödinger equation for the [particle in a spherically symmetric potential](https://en.wikipedia.org/wiki/Particle_in_a_spherically_symmetric_potential)
